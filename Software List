@@ -1,4 +1,7 @@
+MS Office
 Java JDK
+Apache Maven
+Apache Tomcat
 STS Spring tool Suite
 IntelliJ IDE
 Eclipse
@@ -13,6 +16,8 @@ MongoDB
 MSys2 64 bit (C++ compiler)
 MySQL
 Node.js
+npm
+nvm
 Notion
 Poised
 PostgreSQL
@@ -23,3 +28,5 @@ Twitter
 VLC
 WinRar
 Zoom
+Skype
+Whatsapp
